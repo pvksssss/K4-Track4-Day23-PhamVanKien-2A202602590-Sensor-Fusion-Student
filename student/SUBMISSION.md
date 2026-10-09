@@ -8,7 +8,7 @@
 - MSSV: 2A202602590
 - Email: 
 - Link repo (fork): https://github.com/pvksssss/K4-Track4-Day23-PhamVanKien-2A202602590-Sensor-Fusion-Student
-- Commit hash nộp (`git rev-parse HEAD`): 
+- Commit hash nộp (`git rev-parse HEAD`): ef1f7bf17dc19efffaa1aad1849bc809186279f0
 
 ## Tóm tắt kết quả
 
